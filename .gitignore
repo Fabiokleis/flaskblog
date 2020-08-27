@@ -2,4 +2,8 @@ venv
 site.db
 .vscode
 .mypy_cache
+/flaskblog/__pycache__
+/flaskblog/main/__pycache__
+/flaskblog/post/__pycache__
+/flaskblog/users/__pycache__
 
